@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fernandoemancuso and I am working at Mercado Libre
+- 👋 Hi, I’m @fermancuso and I am working at Mercado Libre
 - 👀 I’m interested in Cloud Development, machine learning and finances
 - 🌱 I’m currently learning Mathematical appliances
 - 💞️ I’m looking to collaborate on Fraud Prevention
